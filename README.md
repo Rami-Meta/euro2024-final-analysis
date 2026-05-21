@@ -1,0 +1,1 @@
+Match report for the UEFA Euro 2024 Final between Spain and England, built using StatsBomb open-source event data. Analysis and visualisations produced using Python, pandas, mplsoccer and matplotlib."
